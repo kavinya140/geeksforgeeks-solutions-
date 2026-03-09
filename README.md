@@ -1,6 +1,6 @@
 # Daily Practice
 
-I solve **3 problems daily** from GeeksforGeeks.
+I solve **3 problems daily** from GeeksforGeeks and NeetCode.
 
 ## Progress
 
@@ -9,4 +9,4 @@ Day 2 - 3 Problems
 Day 3 - 3 Problems  
 
 Language: Java
-Platform: GeeksforGeeks
+Platform: GeeksforGeeks, Neetcode
