@@ -37,4 +37,8 @@ Platform: GeeksforGeeks, Neetcode, Leetcode
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/0143-reorder-list) |
+## Database
+|  |
+| ------- |
+| [1729-find-followers-count](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
