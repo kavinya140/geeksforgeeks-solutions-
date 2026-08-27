@@ -40,5 +40,6 @@ Platform: GeeksforGeeks, Neetcode, Leetcode
 ## Database
 |  |
 | ------- |
+| [0619-biggest-single-number](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/0619-biggest-single-number) |
 | [1729-find-followers-count](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
