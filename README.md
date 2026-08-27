@@ -21,4 +21,20 @@ Platform: GeeksforGeeks, Neetcode, Leetcode
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/3718-smallest-missing-multiple-of-k) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/kavinya140/geeksforgeeks-solutions-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
